@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>모두 다운로드</item>
+        <item>테마</item>
+        <item>마켓</item>
+        <item>인터넷</item>
+        <item>음악</item>
+        <item>기타</item>
+    </string-array>
+</resources>

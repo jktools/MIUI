@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>클래식</item>
+        <item>클래식(탄성 없음)</item>
+        <item>페이지 사라짐</item>
+        <item>풍차</item>
+        <item>페이지</item>
+        <item>쌓기</item>
+        <item>회전</item>
+        <item>3D 큐브</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>테마</item>
+        <item>중앙</item>
+        <item>좌측</item>
+        <item>우측</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>기본값</item>
+        <item>클래식</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>맑음</item>
+        <item>흐림</item>
+        <item>흐린 날씨</item>
+        <item>안개</item>
+        <item>강한 폭풍우</item>
+        <item>거센 폭풍우</item>
+        <item>폭풍우</item>
+        <item>T-폭풍</item>
+        <item>소나기</item>
+        <item>폭우</item>
+        <item>비</item>
+        <item>약한 비</item>
+        <item>진눈깨비</item>
+        <item>눈보라</item>
+        <item>눈보라</item>
+        <item>폭설</item>
+        <item>눈</item>
+        <item>약한 눈</item>
+        <item>강한 먼지 폭풍</item>
+        <item>모래 바람</item>
+        <item>먼지</item>
+        <item>황사</item>
+        <item>우박</item>
+        <item>먼지</item>
+    </string-array>
+</resources>

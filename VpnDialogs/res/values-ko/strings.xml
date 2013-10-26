@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s VPN 연결을 시도합니다.</string>
+    <string name="warning">계속 진행하면, 모든 네트워크 트래픽을 가로챌수 있는 응용프로그램 권한을 부여합니다. <b>응용 프로그램을 신뢰하지 않는 한 허용되지 않습니다.</b>" 그렇지 않으면, 귀하의 데이터가 악성 소프트웨어로 인해 위험이 발생합니다. "</string>
+    <string name="accept">이 응용 프로그램을 신뢰합니다.</string>
+    <string name="legacy_title">VPN 연결됨</string>
+    <string name="configure">설정</string>
+    <string name="disconnect">연결해제</string>
+    <string name="session">세션:</string>
+    <string name="duration">지속시간:</string>
+    <string name="data_transmitted">전송:</string>
+    <string name="data_received">수신:</string>
+    <string name="data_value_format">%1$s 바이트 / %2$s 패킷</string>
+</resources>

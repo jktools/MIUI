@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">나침반</string>
+    <string name="getting_location">위치 찾는 중...</string>
+    <string name="cannot_get_location">위치를 찾을 수 없습니다.</string>
+    <string name="location_north">북위 %s</string>
+    <string name="location_south">남위 %s</string>
+    <string name="location_east">동경 %s</string>
+    <string name="location_west">서경 %s</string>
+    <string name="menu_calibrate">나침반 보정</string>
+    <string name="menu_calibrate_altitude">인터넷을 이용하여 고도 보정</string>
+    <string name="calibrate_success">보정 완료</string>
+    <string name="calibrate_failed_no_location">보정 실패 : 현재 위도와 경도를 가져올 수 없습니다</string>
+    <string name="calibrate_failed_timeout">보정 실패 : 서버 연결 시간 초과</string>
+    <string name="pressure_title">압력</string>
+    <string name="altitude_title">고도</string>
+    <string name="pressure">기압 %.1fhPa</string>
+    <string name="altitude">고도 %.1fm</string>
+    <string name="pressure_unit">hPa</string>
+    <string name="altitude_unit">m</string>
+    <string name="dialog_title_no_network">와이파이 또는 데이터 트래픽을 열어 주시기 바랍니다.</string>
+    <string name="dialog_calibrat_altitude">인터넷을 통해 고도 보정.</string>
+    <string name="latitude">LAT</string>
+    <string name="longitude">LON</string>
+    <string name="direction_north">북</string>
+    <string name="direction_south">남</string>
+    <string name="direction_east">동</string>
+    <string name="direction_west">서</string>
+    <string name="guide_toast">주변에 자기장 간섭이 있을수 있습니다. 위의 제스처에 따라 나침반을 보정하십시오.</string>
+</resources>

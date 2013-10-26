@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>ㄱ</item>
+        <item>ㄴ</item>
+        <item>ㄷ</item>
+        <item>ㄹ</item>
+        <item>ㅁ</item>
+        <item>ㅂ</item>
+        <item>ㅅ</item>
+        <item>ㅇ</item>
+        <item>ㅈ</item>
+        <item>ㅊ</item>
+        <item>ㅋ</item>
+        <item>ㅌ</item>
+        <item>ㅍ</item>
+        <item>ㅎ</item>
+    </string-array>
+    <string-array name="detailed_am_pm_names">
+        <item>오전</item>
+        <item>오전</item>
+        <item>오전</item>
+        <item>오후</item>
+        <item>오후</item>
+        <item>오후</item>
+        <item>오후</item>
+    </string-array>
+    <string-array name="screen_key_long_press_default_action">
+        <item>voice_assistant</item>
+        <item>recent_panel</item>
+        <item>없음</item>
+    </string-array>
+    <array name="alarm_in_future" />
+    <string-array name="contact_entries">
+        <item>이름</item>
+        <item>닉네임</item>
+        <item>휴대전화</item>
+        <item>이메일</item>
+        <item>조직</item>
+        <item>메신저</item>
+        <item>SIP 전화</item>
+        <item>생일</item>
+        <item>웹사이트</item>
+        <item>주소</item>
+        <item>노트</item>
+    </string-array>
+</resources>

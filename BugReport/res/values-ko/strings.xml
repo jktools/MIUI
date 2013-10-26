@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">사용자 의견</string>
+    <string name="user_feedback">사용자 의견</string>
+    <string name="report_miui">MIUI로 보고</string>
+    <string name="menu_send">보내기</string>
+    <string name="menu_copy">복사</string>
+    <string name="menu_attach_screenshot">스크린샷 첨부</string>
+    <string name="menu_discard">취소</string>
+    <string name="description">설명 (필수)</string>
+    <string name="btn_send">보내기</string>
+    <string name="err_type">피드백 유형</string>
+    <string name="err_type_reboot">시스템 재부팅</string>
+    <string name="err_type_force_close">강제 종료</string>
+    <string name="err_type_network">네트워크 문제</string>
+    <string name="err_type_others">기타</string>
+    <string name="err_type_power_consuming">소비 전력</string>
+    <string name="err_type_call">통화 문제</string>
+    <string name="err_type_suggestion">제안 사항</string>
+    <string name="err_type_data_lost">데이터 손실</string>
+    <string name="status_msg_pending_upload">%d개의 피드백 업로드중…</string>
+    <string name="status_msg_collecting_log">로그 수집</string>
+    <string name="action_submit">제출</string>
+    <string name="section_err_type">피드백 유형</string>
+    <string name="section_description">설명</string>
+    <string name="section_screenshot">스크린샷</string>
+    <string name="toast_report_sent_succeed">보고서가 발송되었습니다</string>
+    <string name="toast_report_sent_failed">보고서를 보내지 못했습니다</string>
+    <string name="toast_report_copied_to_clipboard">보고서가 클립 보드에 복사됨</string>
+    <string name="toast_description_required">설명은 비워둘 수 없습니다</string>
+    <string name="toast_pending_log_collection">로그 수집중, 잠시 기다려 주십시오</string>
+    <string name="toast_feedback_submitted">귀하의 의견이 제출되었습니다</string>
+    <string name="toast_feedback_pending_wlan">WLAN이 준비되면 귀하의 의견이 발송될 예정입니다</string>
+    <string name="discard_draft_dialog_title">초안을 삭제</string>
+    <string name="discard_draft_dialog_content">이 보고서가 수정되었습니다. 초안을 삭제하려면 확인버튼을 클릭합니다.</string>
+    <string name="discard_draft_dialog_button_discard">확인</string>
+    <string name="discard_draft_dialog_button_cancel">취소</string>
+    <string name="network_unavailable_dialog_title">네트워크를 사용할 수 없음</string>
+    <string name="network_unavailable_dialog_content">네트워크가 준비되면 귀하의 의견이 발송 될 예정입니다</string>
+    <string name="network_unavailable_dialog_button_ok">확인</string>
+    <string name="wlan_unavailable_dialog_title">WLAN을 사용할수 없습니다</string>
+    <string name="wlan_unavailable_dialog_content">%s는 2G/3G 데이터가 필요합니다, WLAN 네트워크에서만 보내려면 확인을 클릭</string>
+    <string name="wlan_unavailable_dialog_button_sent">바로 보내기</string>
+    <string name="wlan_unavailable_dialog_button_ok">확인</string>
+    <string name="packaging_dialog_content">보고서 생성중, 잠시 기다려 주십시오…</string>
+    <string name="bugreport_feedback_from">보낸사람: %s</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_corpora">
+        <item>웹</item>
+        <item>어플</item>
+        <item>com.android.providers.applications/.ApplicationLauncher</item>
+        <item>com.android.settings/.MiuiSettingsSearchActivity</item>
+    </string-array>
+</resources>

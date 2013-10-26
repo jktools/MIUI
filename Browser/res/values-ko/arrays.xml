@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>항상 사용</item>
+        <item>요청 시</item>
+        <item>사용 안함</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>시작 페이지</item>
+        <item>자주 방문한 페이지</item>
+        <item>사용자 지정</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>아주 작게</item>
+        <item>작게</item>
+        <item>보통</item>
+        <item>크게</item>
+        <item>아주 크게</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>축소</item>
+        <item>보통</item>
+        <item>확대</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>라틴어-1(ISO-8859-1)</item>
+        <item>유니코드(UTF-8)</item>
+        <item>중국어(GBK)</item>
+        <item>중국어(Big5)</item>
+        <item>일본어(ISO-2022-JP)</item>
+        <item>일본어(SHIFT_JIS)</item>
+        <item>일본어(EUC-JP)</item>
+        <item>한국어(EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>안함</item>
+        <item>Wi-Fi 연결시</item>
+        <item>항상</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.co.kr/</item>
+        <item>Daum</item>
+        <item>http://m.daum.net/</item>
+        <item>네이버</item>
+        <item>http://m.naver.com/</item>
+        <item>olleh</item>
+        <item>http://m.olleh.com/</item>
+        <item>모바일 T world</item>
+        <item>http://m.tworld.co.kr/</item>
+        <item>위키백과, 우리 모두의 백과사전</item>
+        <item>http://ko.m.wikipedia.org/</item>
+        <item>네이버 카페, 구글 레퍼런스 넥서스 포럼</item>
+        <item>http://m.cafe.naver.com/grnf</item>
+        <item>Twitter</item>
+        <item>https://mobile.twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://m.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://m.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://hp.mobileweb.ebay.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://m.weather.com/</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>화이트</item>
+        <item>옐로우</item>
+        <item>그레이</item>
+        <item>브라운</item>
+        <item>그린</item>
+        <item>블루</item>
+        <item>다크</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>이전 페이지/다음 페이지</item>
+        <item>이전 탭/다음 탭</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>페이지 앞으로/뒤로</item>
+        <item>창 전환</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>사용 안함</item>
+        <item>무선랜에 연결된 경우에만</item>
+        <item>항상</item>
+    </string-array>
+</resources>

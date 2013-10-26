@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equalizer_presents">
+        <item>일반</item>
+        <item>클래식</item>
+        <item>댄스</item>
+        <item>포크</item>
+        <item>헤비 메탈</item>
+        <item>힙합</item>
+        <item>재즈</item>
+        <item>팝</item>
+        <item>록</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1주</item>
+        <item>2주</item>
+        <item>3주</item>
+        <item>4주</item>
+        <item>5주</item>
+        <item>6주</item>
+        <item>7주</item>
+        <item>8주</item>
+        <item>9주</item>
+        <item>10주</item>
+        <item>11주</item>
+        <item>12주</item>
+    </string-array>
+</resources>

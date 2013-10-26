@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>어제의 트래픽</item>
+        <item>오늘의 트래픽</item>
+        <item>금월의 트래픽</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>어제 2G/3G</item>
+        <item>오늘 2G/3G</item>
+        <item>금월 2G/3G</item>
+        <item>어제 무선랜</item>
+        <item>오늘 무선랜</item>
+        <item>금월 무선랜</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>어제 2G/3G</item>
+        <item>오늘 2G/3G</item>
+        <item>금월 2G/3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3초</item>
+        <item>4초</item>
+        <item>5초</item>
+        <item>6초</item>
+        <item>7초</item>
+        <item>8초</item>
+        <item>9초</item>
+    </string-array>
+</resources>

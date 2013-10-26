@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">사용할수 없는 효과</string>
+    <string name="main_toggle_effects_title">오디오 효과</string>
+    <string name="eq_dialog_title">이퀄라이저</string>
+    <string name="headset_plug">효과를 위해 헤드폰을 연결하세요</string>
+    <string name="bass_boost_strength">베이스 부스터</string>
+    <string name="virtualizer_strength">3D 효과</string>
+    <string name="pr_title">리버브:</string>
+    <string name="pr_summary">추가적인 룸 리버브 효과</string>
+    <string name="pr_dialog_title">리버브 프리셋</string>
+    <string name="setup">설정</string>
+    <string name="ci_extreme">FX 부스터</string>
+    <string name="user">사용자 설정</string>
+    <string name="picker_title">음악 효과 컨트롤 패널</string>
+</resources>

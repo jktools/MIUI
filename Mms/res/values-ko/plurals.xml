@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">선택한 %1$s 대화를 삭제 하시겠습니까?</item>
+        <item quantity="one">대화를 삭제 하시겠습니까?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s초</item>
+        <item quantity="one">%s초</item>
+        <item quantity="few">%s초</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">"'%2$s'에 대한 검색결과 %1$s개"</item>
+        <item quantity="one">"'%2$s'에 대한 검색결과 %1$s개"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">사용자 %1$s명</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s 메세지</item>
+        <item quantity="one">%1$s 메세지</item>
+    </plurals>
+</resources>
